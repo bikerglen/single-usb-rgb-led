@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project>
+  <executable name="dist/LPCUSBDK_16F1459/production\ws2812b-cdc-basic-pic16f1459.X.production.hex">
+    <memory name="program">
+      <units>words</units>
+      <length>8192</length>
+      <used>4917</used>
+      <free>3275</free>
+    </memory>
+    <memory name="data">
+      <units>bytes</units>
+      <length>1024</length>
+      <used>555</used>
+      <free>469</free>
+    </memory>
+  </executable>
+</project>
